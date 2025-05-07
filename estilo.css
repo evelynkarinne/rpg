@@ -67,6 +67,9 @@ footer{
         height: auto;
     }
     a:hover{
-        color:#F2D5BB;
+        font-weight: bold;
+        background-color:#c16f1c;
+        height: auto;
+        font-size: 30px;
     }
 }
