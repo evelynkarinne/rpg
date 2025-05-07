@@ -31,7 +31,7 @@ a{
 }
 a:hover{
     background-color:#F2D5BB;
-    height: 60px;
+    height: auto;
 }
 section#imagem{
     height:300px;
