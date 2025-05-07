@@ -63,6 +63,10 @@ footer{
 @media screen and (max-width:768px){
     nav{
         display: flex;
-        flex-wrap: wrap;
         flex-direction: column;
+        height: auto;
     }
+    a:hover{
+        color:#F2D5BB;
+    }
+}
